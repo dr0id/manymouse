@@ -1,0 +1,1 @@
+Put here there the *.lib files and the SDL2.dll.

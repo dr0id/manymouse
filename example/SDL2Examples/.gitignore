@@ -1,0 +1,12 @@
+*.o
+*.a
+*.user
+/SDL2/include/*.h
+/SDL2/include/*.cmake
+/SDL2/include/*.in
+/SDL2/include/*.h.orig
+/TestManymouseSDL/obj/Debug
+/TestManymouseSDL/x64/Debug
+/.vs/*
+/SDL2/lib/x64/*.lib
+/SDL2/lib/x64/*.dll
